@@ -1,15 +1,7 @@
 # Crime Reporting Website
 
-![Website Screenshot](website_screenshot.png)
+![Website Screenshot](https://i.ibb.co/pJGwRdy/Whats-App-Image-2023-05-23-at-13-30-47.jpg)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -24,11 +16,3 @@ The Crime Reporting Website is a decentralized platform built on IPFS (InterPlan
 - **User Authentication**: Registered users have the ability to authenticate themselves to access additional features and review their submitted reports.
 - **Interactive Map**: A map interface allows users to view crime incidents geographically and provides visual representations of crime patterns.
 
-## Installation
-
-To install and run the Crime Reporting Website locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/crime-reporting-website.git
